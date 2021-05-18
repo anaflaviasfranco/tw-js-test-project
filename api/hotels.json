@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Parque das Flores",
+        "rating": 3,
+        "weekDayRegular": 110.00,
+        "weekDayPremium": 80.00,
+        "weekendRegular": 90.00,
+        "weekendPremium": 80.00
+    },
+    {
+        "name": "Jardim Botânico",
+        "rating": 4,
+        "weekDayRegular": 160.00,
+        "weekDayPremium": 110.00,
+        "weekendRegular": 60.00,
+        "weekendPremium": 50.00
+    },
+    {
+        "name": "Mar Atlântico",
+        "rating": 5,
+        "weekDayRegular": 220.00,
+        "weekDayPremium": 100.00,
+        "weekendRegular": 150.00,
+        "weekendPremium": 40.00
+    }
+]
